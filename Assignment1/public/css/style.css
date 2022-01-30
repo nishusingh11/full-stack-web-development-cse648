@@ -2,6 +2,7 @@
     padding: 0px;
     margin: 0px;
     font-family: Optima, Segoe, "Segoe UI";
+    font-weight: 300;
   }
   
   .main{
@@ -13,17 +14,16 @@
   }
   
   .name{
-    border: 1px solid black;
+    border: .5px solid black;
     border-style: solid;
-    border-radius: 5px;
+    border-radius: 3px;
     text-align: center;
-    font-weight: bold;
     padding: 10px;
-    width: 50%;
-    margin: 25px auto 25px;
+    width: 30%;
+    margin: 30px auto 30px;
     background-color: white;
     margin-top: 20px;
-    font-size: 15pt;
+    font-size: 20pt;
     }
   
     .picture{
